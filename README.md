@@ -25,8 +25,7 @@ To run this mod menu, you will need:
 ## Install
 
 * **To install, go to Releases and download the main.exe. Other files are Standalone Mods and are not needed**
-*
-Note: Main.exe must be run as an admin to work.
+* **Note: Main.exe must be run as an admin to work.**
 ---
 
 ## 📂 Project Structure
